@@ -4,5 +4,5 @@
 - creer un readme (a la fin)
 - nettoyer le code au fur et a mesure quon l'execute
 - modifier les commentaires 
-- creer un folder resultats - Resultats
-- creer un folder graphiques - Graphiques
+- merge branches
+- executer la regression lineaire pour recuit simule
