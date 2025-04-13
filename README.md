@@ -15,6 +15,8 @@ Par ailleurs, chaque Jupyter Notebook est divisé en trois parties correspondant
 
 On commence par la lecture du fichier, puis on utilise le solveur pour trouver une solution optimale. Enfin, deux métaheuristiques sont testées sur les programmes. Des graphiques sont ensuite générés à partir de tous les tests réalisés.
 
+De plus les graphiques de l'Evolution du profit au fil des itérations et de l'Evolution du poids au fil des itérations sont disponibles dans l'execution des tests. ATTENTION : Ces graphes ne sont valables que pour des caractéristiques (Température, NbTest...) d'analyse fixées.
+
 ---
 
 ## Graphiques
