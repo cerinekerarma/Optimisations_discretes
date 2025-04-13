@@ -1,8 +1,0 @@
-- verifier que tous les codes de pi12 n=100 sont les memes pour tous les n, pour tous les fichiers(avec le noms de variables differents evidemment)
-- verfier que le nom des fichiers se terminent toujours par le chiffre correspondant n et le nom du fichier (ex: 100_12 pour n=100 et pi=12)
-- verifier a chaque code que cest le n et pi correct
-- creer un readme (a la fin)
-- nettoyer le code au fur et a mesure quon l'execute
-- modifier les commentaires 
-- merge branches
-- executer la regression lineaire pour recuit simule
